@@ -30,8 +30,6 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>BMI_170430</string>
-	<key>XSAppIconAssets</key>
-	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>CFBundleIdentifier</key>
 	<string>jp.jc21.170430.BMI_170430</string>
 </dict>
